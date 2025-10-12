@@ -1,6 +1,3 @@
-# ACC_ETWR_2473_XHTML_CSS_VanessaDavis
-ETWR 2473 XHTML/CSS site for class
-
 <!DOCTYPE HTML> <html lang="en">
 <head>
 <meta charset="UTF-8">
